@@ -101,6 +101,6 @@ public class SalaryDivider extends JFrame {
                 new SalaryDivider().setVisible(true);
             }
         });
-
+System.out.println("This is only to fix a commit issue.");
     }
 }
